@@ -1,0 +1,140 @@
+c:\users\skuska\documents\visual studio 2013\Projects\Thinning\Thinning\bin\Debug\Thinning.exe.config
+c:\users\skuska\documents\visual studio 2013\Projects\Thinning\Thinning\bin\Debug\Thinning.exe
+c:\users\skuska\documents\visual studio 2013\Projects\Thinning\Thinning\bin\Debug\Thinning.pdb
+c:\users\skuska\documents\visual studio 2013\Projects\Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+c:\users\skuska\documents\visual studio 2013\Projects\Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+c:\users\skuska\documents\visual studio 2013\Projects\Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+c:\users\skuska\documents\visual studio 2013\Projects\Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+c:\users\skuska\documents\visual studio 2013\Projects\Thinning\Thinning\obj\Debug\Thinning.exe
+c:\users\skuska\documents\visual studio 2013\Projects\Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Skuska\Documents\Visual Studio 2013\Projects\Thinning\Thinning\bin\Debug\tessnet2_32.dll
+C:\Users\Skuska\Documents\Visual Studio 2013\Projects\Thinning\Thinning\bin\Debug\netDxf.dll
+C:\Users\Skuska\Documents\Visual Studio 2013\Projects\Thinning\Thinning\bin\Debug\netDxf.pdb
+C:\Users\Skuska\Documents\Visual Studio 2013\Projects\Thinning\Thinning\bin\Debug\netDxf.xml
+C:\Users\Skuska\Desktop\Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Skuska\Desktop\Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\Thinning\Thinning\bin\Debug\netDxf.pdb
+C:\Users\Skuska\Desktop\Thinning\Thinning\bin\Debug\netDxf.xml
+C:\Users\Skuska\Desktop\Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Skuska\Desktop\Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Skuska\Desktop\Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Skuska\Desktop\Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\bin\Debug\netDxf.pdb
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\bin\Debug\netDxf.xml
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Administrator\Desktop\5.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\bin\Debug\netDxf.pdb
+C:\Users\Skuska\Desktop\6.9. Thinning\Thinning\bin\Debug\netDxf.xml
+C:\Users\Administrator\Desktop\7.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Administrator\Desktop\7.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\7.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\7.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\7.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\7.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Administrator\Desktop\7.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Administrator\Desktop\7.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\8.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Administrator\Desktop\8.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\8.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\8.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\8.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\8.9. Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\8.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Administrator\Desktop\8.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Administrator\Desktop\8.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Skuska\Desktop\9.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Skuska\Desktop\9.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\9.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\9.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\9.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\9.9. Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Skuska\Desktop\9.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Skuska\Desktop\9.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Skuska\Desktop\9.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Skuska\Desktop\10.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Skuska\Desktop\10.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\10.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\10.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\10.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\10.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Skuska\Desktop\10.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Skuska\Desktop\10.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\12.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Administrator\Desktop\12.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\12.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\12.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\12.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\12.9. Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\12.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Administrator\Desktop\12.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Administrator\Desktop\12.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Skuska\Desktop\13.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Skuska\Desktop\13.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\13.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\13.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\13.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\13.9. Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Skuska\Desktop\13.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Skuska\Desktop\13.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Skuska\Desktop\13.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\17.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Administrator\Desktop\17.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\17.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\17.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\17.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\17.9. Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\17.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Administrator\Desktop\17.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Administrator\Desktop\17.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\22.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Administrator\Desktop\22.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\22.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\22.9. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Skuska\Desktop\22.9. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\22.9. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\22.9. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\22.9. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\22.9. Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\22.9. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Administrator\Desktop\22.9. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Administrator\Desktop\22.9. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\25.11. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Administrator\Desktop\25.11. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\25.11. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\25.11. Thinning\Thinning\bin\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\25.11. Thinning\Thinning\bin\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\25.11. Thinning\Thinning\obj\Debug\Thinning.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\25.11. Thinning\Thinning\obj\Debug\Thinning.Form1.resources
+C:\Users\Administrator\Desktop\25.11. Thinning\Thinning\obj\Debug\Thinning.Properties.Resources.resources
+C:\Users\Administrator\Desktop\25.11. Thinning\Thinning\obj\Debug\Thinning.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2.12. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Administrator\Desktop\2.12. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\2.12. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Administrator\Desktop\6.12. Thinning\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Administrator\Desktop\6.12. Thinning\Thinning\obj\Debug\Thinning.exe
+C:\Users\Administrator\Desktop\6.12. Thinning\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\6.12. Thinningh\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Skuska\Desktop\6.12. Thinningh\Thinning\obj\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\6.12. Thinningh\Thinning\obj\Debug\Thinning.pdb
+C:\Users\Skuska\Desktop\Gramblička Matúš články a iné\C# aplikácie\Program vektorizačný Thinning\6.12. Thinning last\Thinning\bin\Debug\Thinning.exe.config
+C:\Users\Skuska\Desktop\Gramblička Matúš články a iné\C# aplikácie\Program vektorizačný Thinning\6.12. Thinning last\Thinning\obj\Debug\Thinning.exe
+C:\Users\Skuska\Desktop\Gramblička Matúš články a iné\C# aplikácie\Program vektorizačný Thinning\6.12. Thinning last\Thinning\obj\Debug\Thinning.pdb
